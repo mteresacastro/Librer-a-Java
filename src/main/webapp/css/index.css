@@ -1,0 +1,11 @@
+.bg-image{
+	background-image: url("../img/librerias.jpg");
+	background-position: center;
+	background-size: cover;
+	border:0px;
+}
+
+.sizeDiv{
+	width: 40vw;
+}
+
